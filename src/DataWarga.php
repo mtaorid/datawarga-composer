@@ -1,5 +1,7 @@
 <?php
 
+namespace MTAorid;
+
 use GuzzleHttp\Client;
 
 class DataWarga {
