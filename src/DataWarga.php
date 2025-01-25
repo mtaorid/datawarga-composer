@@ -1,6 +1,6 @@
 <?php
 
-namespace MTAorid;
+namespace Mtaorid;
 
 use GuzzleHttp\Client;
 

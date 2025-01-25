@@ -1,8 +1,21 @@
 {
     "name": "mtaorid/datawarga",
-    "description": "A short description of what your package does",
+    "description": "API MTA SDK",
+    "type": "library",
     "require": {
-        "php": ">=8.2",
         "guzzlehttp/guzzle": "^7.9"
-    }
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Mtaorid\\Datawarga\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Zamahsyari",
+            "email": "zmachmobile@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
 }
