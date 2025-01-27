@@ -1,6 +1,6 @@
 <?php
 
-namespace Mtaorid;
+namespace Mtaorid\Datawarga;
 
 use GuzzleHttp\Client;
 
